@@ -7,10 +7,10 @@ http://blog.jobbole.com/74951/
 http://www.infoq.com/cn/news/2014/03/tag-personal-data
 http://blog.csdn.net/han_xiaoyang/article/details/49797143
 http://www.cnblogs.com/jasonfreak/p/5619260.html
-http://breezedeus.github.io/2014/11/15/breezedeus-feature-processing.html
+http://breezedeus.github.io/2014/11/15/breezedeus-feature-processing.html    good  http://breezedeus.github.io/2015/07/29/breezedeus-meituan-ml.html  http://breezedeus.github.io/2014/11/19/breezedeus-feature-mining-gbdt.html http://breezedeus.github.io/2014/11/20/breezedeus-feature-hashing.html
 小象学院上的特征工程视频
 机器学习_周志华-第11章.pdf
-
+https://www.zhihu.com/question/29316149/answer/110159647
  
  特征提取
  jmq，jdq，hive统计，用户画像，建模(身份证)，jsf（bean的各个字段）
@@ -27,7 +27,7 @@ http://breezedeus.github.io/2014/11/15/breezedeus-feature-processing.html
  5.标准化   均值，方差 去中心化
  6.离散化  哑变量http://blog.csdn.net/lime1991/article/details/41653841
  7.特征组合
- 8、L1，L2选特征  http://lib.csdn.net/article/machinelearning/42049
+ 8、L1，L2选特征  http://lib.csdn.net/article/machinelearning/42049   http://blog.csdn.net/zouxy09/article/details/24971995
  9、决策树选特征
  10、神经网络选特征
  11.稀疏特征
@@ -35,3 +35,5 @@ http://breezedeus.github.io/2014/11/15/breezedeus-feature-processing.html
  13.VC维？
  
  http://toughcoder.net/blog/2014/10/16/blogging-like-a-hacker-with-github-pages/
+
+ 
